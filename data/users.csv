@@ -1,0 +1,6 @@
+userId,name,username,password,role
+U001,Samia,operator1,pass123,EMERGENCY_OPERATOR
+U002,Tasnia,rescue1,pass123,RESCUE_OFFICER
+U003,Arundhuti,rescue2,pass123,RESCUE_OFFICER
+U004,Shamima,hospital1,pass123,HOSPITAL_LIAISON
+U005,Ayon,monitor1,pass123,OPERATIONS_MONITOR

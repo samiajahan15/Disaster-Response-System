@@ -1,0 +1,2 @@
+hospitalId,hospitalName,availableBeds,emergencyBeds,medicalStaff,resources,status,linkedUserId
+H001,City General Hospital,120,20,45,Ambulances:5;Ventilators:10,OPERATIONAL,U004
